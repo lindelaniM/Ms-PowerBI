@@ -47,5 +47,31 @@ There are two modes to view and interact with reports:
 > Reading view: When a report is opened by a user, it's displayed in reading view.
 
 > Editing view: For individuals that have edit permissions, editing view is used to modify the different elements on the report and how they're presented.
->
-> 
+
+**Dashboards**
+
+A dashboard is a single canvas that contains zero or more tiles and widgets. Each tile pinned from a report or from Q&A displays a single visualization that was created from a dataset and pinned to the dashboard. 
+
+> To see all information needed to make decisions in one glance.
+
+> To monitor the most important information about your business.
+
+> To ensure all colleagues are on the same page, viewing and using the same information.
+
+> To monitor the health of a business, product, business unit, or marketing campaign, etc.
+
+> To create a personalized view of a larger dashboard and show all the metrics that matter to them.
+
+**Cleaning and transforming data in Power BI Desktop**
+
+Cleaning and transforming data is how you prepare your data and get it ready to be used. To begin transforming and cleaning data, you use the Power BI Desktop application.
+
+Power BI Desktop has three views:
+
+> Report view: You can create queries to build compelling visualizations that you can share with others. You can arrange them as you want them to appear.
+
+> Data view: See the data in your report in data model format, where you can add measures, create new columns, and manage relationships.
+
+> Model view: Get a graphical representation of the relationships that are established in your data model and manage or modify them as needed.
+
+**Power BI Desktop includes the Power Query Editor tool, which can help you shape and transform data so that it's ready for your models and visualizations.**
